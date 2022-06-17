@@ -1,0 +1,25 @@
+{
+  "name": "simple-hn-client",
+  "version": "1.0.0",
+  "description": "A simple hackernews client for Algolia HN API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geshan/simple-hn-client.git"
+  },
+  "author": "Geshan Manandhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geshan/simple-hn-client/issues"
+  },
+  "homepage": "https://github.com/geshan/simple-hn-client#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
