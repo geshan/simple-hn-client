@@ -4,7 +4,8 @@
   "description": "A simple hackernews client for Algolia HN API",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:cov": "jest --coverage"
   },
   "repository": {
     "type": "git",
